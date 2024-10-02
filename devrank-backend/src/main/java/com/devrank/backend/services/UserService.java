@@ -1,4 +1,4 @@
 package com.devrank.backend.services;
 
-public class holder {
+public interface UserService {
 }
